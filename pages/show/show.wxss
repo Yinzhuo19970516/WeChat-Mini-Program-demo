@@ -1,0 +1,11 @@
+/* pages/show/show.wxss */
+.label_ans{
+    display: block;
+}
+button{
+  margin-top:20rpx;
+}
+.str{
+  text-indent: 40rpx;
+  text-align: left;
+}
